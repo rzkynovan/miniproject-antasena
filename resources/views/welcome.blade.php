@@ -1,3 +1,8 @@
 <x-guest-layout>
-    <h1>Tess</h1>
+  <section class="h-screen grid place-items-center">
+    <div class="flex flex-col">
+        <h1>Home Page</h1>
+
+    </div>
+  </section>
 </x-guest-layout>
